@@ -13,7 +13,7 @@ This module demonstrates:
 - Use of Snowpark for processing and transforming structured/unstructured data.
 - A Streamlit-based interface for interacting with various AI tasks.
 - Examples of custom prompt engineering and pipeline automation.
-- Support for domain adaptation and fine-tuning** of language models.
+- Support for domain adaptation and fine-tuning of language models.
 
 
 ##  Features
