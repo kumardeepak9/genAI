@@ -1,0 +1,30 @@
+# Local environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+secrets.json
+*creds*.json
+
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor configuration directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Mac system files
+.DS_Store

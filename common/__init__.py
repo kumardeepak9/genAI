@@ -1,0 +1,1 @@
+# Snowflake GenAI Common Utilities
